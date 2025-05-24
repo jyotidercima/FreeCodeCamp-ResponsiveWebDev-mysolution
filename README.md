@@ -12,8 +12,11 @@ All the projects are made with the help and learning from the freecodecamp respo
 <li>Penguin</li>
 
 </ul>
-<h3></h3>
-<p></p>
+<h3>Portfolio website</h3>
+<p>I have created a portfolio website using grids showing projects i have made in this learning process.</p>
+
+![127 0 0 1_3000_portfolio_index html](https://github.com/user-attachments/assets/8ad653ac-fc17-4f34-881d-0b2a187dc667)
+
 
 <h3>Product Landing page</h3>
 <p>Key Chain Mini Camera - Product landing page
@@ -35,13 +38,12 @@ The screenshort of the project is as follows
 
 
 <h3>Ferries Wheel</h3>
-<p>
-</p>
+<p></p>
 
 ![127 0 0 1_3000_feeries%20wheel_index html](https://github.com/user-attachments/assets/10773629-8dbe-4c85-a6ad-10afb2fc2782)
 
 <h3>Penguin</h3>
-<p>In this project i have created a responsive penguin page in which i have created penguin using HTML and CSS also created mountains, sun, background, and also using transitions made penguin wave to the user.</p>
+<p>In this project i have created a responsive penguin page in which i have created penguin using HTML and CSS also created mountains, sun, background, and also using transitions made penguin waving to the user.</p>
 The screenshort of the website is as follows:
 
 ![127 0 0 1_3000_penguin_index html](https://github.com/user-attachments/assets/d639883f-592f-4be1-83aa-58e8c1b81509)
