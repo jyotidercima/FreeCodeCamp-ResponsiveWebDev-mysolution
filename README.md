@@ -53,5 +53,8 @@ The screenshort of the website is as follows:
 <p>Documentation page for the topic - Machine Learning With AI
 In this project i have created fixed left navigation and made a documentation page 
 The screenshort of the project is: 
-</p>![127 0 0 1_3000_Documentation_index html (3)](https://github.com/user-attachments/assets/4fbe915e-95b2-49a5-a958-650a6c396ff6)
+</p>
+
+
+![127 0 0 1_3000_Documentation_index html (3)](https://github.com/user-attachments/assets/3cc0ebea-c652-485d-9273-e4c4a0b5e9cd)
 
